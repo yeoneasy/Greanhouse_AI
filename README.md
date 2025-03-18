@@ -41,22 +41,22 @@
 ### 모델 학습 코드
   A농가에 대해 내부온도 예측:
   ```bash
-  python tomato_train_inner.ipynb
+  jupyter notebook tomato_train_inner.ipynb
   ```
 
   전체 농가에 대해 내부온도 예측:
   ```bash
-  python tomato_train_all.ipynb
+  jupyter notebook tomato_train_all.ipynb
   ```
 
   전체 농가에 대해 구동기 제어값 예측:
   ```bash
-  python tomato_train_double.ipynb
+  jupyter notebook tomato_train_double.ipynb
   ```
 
   D농가에 대해 일반화하여 예측:
   ```bash
-  python tomato_normalization.ipynb
+  jupyter notebook tomato_normalization.ipynb
   ```
 
 ### 학습 환경
