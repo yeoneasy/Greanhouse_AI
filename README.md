@@ -39,7 +39,7 @@
  - **하이퍼 파라미터**: LSTM 학습에 사용되는 파라미터 중 layer가 1 이고 hidden_size가 1024일 경우 우수한 성능
  ![Image](https://github.com/user-attachments/assets/b0ec0422-8d0c-4930-bdc7-0d50c0147000)
  - **모델 성능**: 내부온도 모델 예측 오차 0.1, 구동기 개도율 오차 4이하로 우수한 성능을 보임
- ![Image](https://github.com/user-attachments/assets/7f87379f-41b7-4a30-971a-79eb6917ae73)
+ ![Image](https://github.com/user-attachments/assets/96e76cbc-a6f2-4869-889d-880766809c1c)
  - **일반화 모델 성능**: 학습 데이터에 포함되지 않은 온실 환경에서도 기존 학습 모델과 비슷한 수준으로 유지
 
 ### 모델 학습 코드
